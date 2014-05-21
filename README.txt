@@ -1,1 +1,1 @@
-este repositório tem meu código do lab1 alterado 2.
+este repositório tem meu código do lab1, segunda alteração.
